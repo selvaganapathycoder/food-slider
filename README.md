@@ -24,5 +24,4 @@ A colorful and interactive food slider website built using **HTML**, **CSS**, an
 
 ---
 
-## 📁 Folder Structure
 
